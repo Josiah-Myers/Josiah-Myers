@@ -12,9 +12,9 @@
 [<img align="left" alt="JosiahMyers | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JosiahMyers | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: 
+[twitter]: https://twitter.com/MyersCyber
 [youtube]: https://www.youtube.com/@JosiahMyers
-[instagram]: 
+[instagram]: https://www.instagram.com/MyersCyber
 [linkedin]: https://linkedin.com/in/josiah-myers
 
 <!--
