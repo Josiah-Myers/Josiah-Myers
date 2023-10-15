@@ -6,7 +6,7 @@
   - [Cloud SOC and Honeynet](https://github.com/Josiah-Myers/Cloud-SOC)
  
 - <b>Writing a Python Algorith</b>
-  - [Python Algorithm](file:///C:/Users/Josia/OneDrive/Desktop/Python%20Project/Algorithm%20for%20file%20updates%20in%20Python.pdf)
+  - [Python Algorithm](https://github.com/Josiah-Myers/Python-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
 
