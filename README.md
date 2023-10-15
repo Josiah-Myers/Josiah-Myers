@@ -4,6 +4,9 @@
 
 - <b>Building a Cloud SOC and Virtual Honeynet in Microsoft Azure</b>
   - [Cloud SOC and Honeynet](https://github.com/Josiah-Myers/Cloud-SOC)
+ 
+- <b>Writing a Python Algorith</b>
+  - [Python Algorithm](file:///C:/Users/Josia/OneDrive/Desktop/Python%20Project/Algorithm%20for%20file%20updates%20in%20Python.pdf)
 
 <h2> 🤳 Connect with me:</h2>
 
